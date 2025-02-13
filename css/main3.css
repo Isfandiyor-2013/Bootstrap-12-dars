@@ -1,0 +1,20 @@
+.matn{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.ty{
+    background-color: palevioletred;
+}
+.matn-2{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+h4{
+    position: absolute;
+    top: 405px;
+    left: 164px;
+    font-size: 35px;
+
+}
